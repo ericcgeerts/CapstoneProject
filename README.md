@@ -7,6 +7,9 @@ The tool outputs a csv file containing the genearted groups.
 
 **Removed node_modules for github space. 
 
+Project Poster
+![Project Poster](https://github.com/ericcgeerts/CapstoneProject/blob/main/Poster.png)
+
 Demo Screenshots Below.
 
 Title Screen
